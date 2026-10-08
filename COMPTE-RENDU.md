@@ -69,7 +69,15 @@ Le hash contient 7 caractères.
 IL est écrit en base de 8. 
 Il re présente 4 bits.
 
-## Question 3.6
+## Question 3.7
+1. 
+Le git status décrit README comme étant modifié.
 
+2.  
+Le + signifie que la ligne a été ajoutée.
+Et il montre avec un - les lignes supprimées. 
+Il montre donc les modifications faites.
+
+## Question 3.8 
 
 
